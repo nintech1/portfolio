@@ -3,7 +3,7 @@
 
 ### Education
 - MSc., Applied Intelligence and Data Analytics| University of Bradford, UK
-- BSc., Chemical/Petro-Chemical Enginerring| Rivers State University of Science and Technology Portharcourt, Niger
+- BSc., Chemical/Petro-Chemical Enginerring| Rivers State University of Science and Technology Portharcourt, Nigeria
 
 ### Work Experince 
 Data Scientist @ Hotel IHG York

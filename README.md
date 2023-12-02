@@ -6,7 +6,7 @@
 - BSc., Chemical/Petro-Chemical Enginerring| Rivers State University of Science and Technology Portharcourt, Nigeria
 
 ### Work Experince 
-Data Scientist @ Hotel IHG
+Data Scientist @ Hotel IHG York
 - Provide recommendations to managers to increase customers satisfaction by analyzing feedback data, auditing, and compliance check
 - Developed business analytics model that predicts customers retention accurately, capable of resulting in 15% increase in quarterly revenue
 
